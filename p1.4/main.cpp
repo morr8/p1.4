@@ -1,15 +1,19 @@
-//
-//  main.cpp
-//  p1.4
-//
-//  Created by Sergio campos on 5/19/19.
-//  Copyright © 2019 Sergio campos. All rights reserved.
-//
+/*
+ •• P1.4Write a program that prints a face similar to (but different from) the following:
+ 
+ /////
+ +-----+
+ (| o o |)
+ |  ^  |
+ | '-' |
+ +-----+
+ */
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+using namespace std;
+
+int main()
+{
+    cout << "face ";
 }
